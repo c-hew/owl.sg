@@ -42,3 +42,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 * Understanding the Github Flow - https://guides.github.com/introduction/flow/
 * Getting Started with Github Pages - https://guides.github.com/features/pages/
 * Others - https://guides.github.com/
+* React on Github Pages - https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a
