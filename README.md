@@ -7,8 +7,8 @@ The following are updates log categorised by months.
 Use "Updates for {month year}"
 
 ## Mar 2019
-10 March 2019
-1. Introduced status pages (new tab), fixed some errors and links.
+10. Introduced status pages (new tab), fixed some errors and links.
+12. Video Campaigns! We are working on video campaigns and relationships to articles. More information and campaigns will be posted on our [LinkedIn page](https://www.linkedin.com/company/18977574/) and our website. 
 
 ## Feb 2019
 Updates were not logged.
