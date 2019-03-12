@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### Additional Resources
-Mastering Markdown - https://guides.github.com/features/mastering-markdown/
-Understanding the Github Flow - https://guides.github.com/introduction/flow/
-Getting Started with Github Pages - https://guides.github.com/features/pages/
-Others - https://guides.github.com/
+* Mastering Markdown - https://guides.github.com/features/mastering-markdown/
+* Understanding the Github Flow - https://guides.github.com/introduction/flow/
+* Getting Started with Github Pages - https://guides.github.com/features/pages/
+* Others - https://guides.github.com/
