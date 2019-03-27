@@ -12,6 +12,8 @@ The bullet point used (e.g. "10." will represent the date in the respective mont
 10. Introduced status pages (new tab), fixed some errors and links.
 12. Video Campaigns! We are working on video campaigns and relationships to articles. More information and campaigns will be posted on our [LinkedIn page](https://www.linkedin.com/company/18977574/) and our website. 
 
+27.  Added Registration/Login Links on the front page (both redirects to the same signup/login page)
+
 ## Feb 2019
 Updates were not logged.
 
