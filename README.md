@@ -14,6 +14,8 @@ The bullet point used (e.g. "10." will represent the date in the respective mont
 
 27.  Added Registration/Login Links on the front page (both redirects to the same signup/login page)
 
+29. Some videos are removed on my own discretion.
+
 ## Feb 2019
 Updates were not logged.
 
