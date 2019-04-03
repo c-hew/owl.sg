@@ -48,3 +48,4 @@ Some added pages: https://owl.sg/javascript/
 
 
 View [site (www.owl.sg)](https://owl.sg)
+Support our cause of prodividing free video services by [donating](https://www.paypal.me/owlg/8).
