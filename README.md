@@ -9,6 +9,7 @@ Use "Updates for {month year}"
 The bullet point used (e.g. "10." will represent the date in the respective months)
 ## May 2019
 17. Updates on server and packages, database repair.
+18. Update to main page general video statistic. Updates and investigation to massive downtime.
 
 ## Apr 2019
 3. System upgrade and reboots have been performed.
