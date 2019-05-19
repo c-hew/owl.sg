@@ -52,4 +52,6 @@ Some added pages: https://owl.sg/javascript/
 
 
 View [site (www.owl.sg)](https://owl.sg)
+[Site Status](https://status.owl.sg/)
+[Site Updates Log](https://updates.owl.sg/)
 Support our cause of providing free video services by [donating](https://www.paypal.me/owlg/8).
