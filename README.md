@@ -12,7 +12,7 @@ The bullet point used (e.g. "10." will represent the date in the respective mont
 17. Updates on server and packages, database repair.
 18. Update to main page general video statistic. Updates and investigation to massive downtime.
 19. Review frequent overload and downtime issues (performance) and suggest changes to the site.
-23. Install updates on server and site.
+23. Install updates on server and site. Disabled plugin that led to performance issue, hence removing the functionality.
 
 ## Apr 2019
 3. System upgrade and reboots have been performed.
