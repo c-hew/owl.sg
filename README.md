@@ -14,6 +14,8 @@ The bullet point used (e.g. "10." will represent the date in the respective mont
 
 14. Major updates to previous Wise Hosting Services Facebook page to reflect Owl Hosting Services website including website URL update and About Info updates and product updates.
 
+17. Some recent removal of videos that violates our Video Listing Standards & Policies.
+
 ## May 2019
 17. Updates on server and packages, database repair.
 18. Update to main page general video statistic. Updates and investigation to massive downtime.
