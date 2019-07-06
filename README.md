@@ -7,6 +7,9 @@ The following are updates log categorised by months.
 Use "Updates for {month year}"
 
 The bullet point used (e.g. "10." will represent the date in the respective months)
+## July 2019
+06. Server update, 80+ packages. Website software updated regularly.
+
 ## June 2019
 05. Introducing our cheap unlimited hosting service: [unlimited hosting services](https://owl.sg/hosting/)
 10. Huge performance updates, purged sitewide cache. Update colour scheme from #dd5858 to #464856. This includes update to colours of the top bar, etc.
