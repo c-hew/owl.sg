@@ -7,6 +7,11 @@ The following are updates log categorised by months.
 Use "Updates for {month year}"
 
 The bullet point used (e.g. "10." will represent the date in the respective months)
+## Jan 2020
+## Dec 2019
+12. Website links updates, CMS updates applied
+## Nov 2019
+## Oct 2019
 ## Sept 2019
 17. Website restored, server updates 100+ with system packages, CMS update 20+, fixes and administrative fixes applied
 
