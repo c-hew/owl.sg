@@ -10,6 +10,7 @@ The bullet point used (e.g. "10." will represent the date in the respective mont
 ## Jan 2020
 ## Dec 2019
 12. Website links updates, CMS updates applied
+13. Applied relatively major updates and included a lot of new features including front page "Popular vids". We are working on the fix that results in wrong title, and descriptions listed on new videos.
 ## Nov 2019
 ## Oct 2019
 ## Sept 2019
