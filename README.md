@@ -7,6 +7,8 @@ The following are updates log categorised by months.
 Use "Updates for {month year}"
 
 The bullet point used (e.g. "10." will represent the date in the respective months)
+## Apr 2020
+15. Front page shutdown to prepare for major website redevelopment.
 ## Jan 2020
 ## Dec 2019
 12. Website links updates, CMS updates applied
